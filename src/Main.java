@@ -4,7 +4,7 @@ public class Main {
         System.out.println("Hello World!");
         System.out.println("------------");
 
-        for (int i = 0; i < 12; i++) {
+        for (int i = 0; i < 15; i++) {
             if (i < 10) {
                 System.out.print("Hello world!");
             } else {
